@@ -2,4 +2,5 @@ Mars Journal
 Time: 
 Location:
 
-First day, Matt Damon looked very happy here
+First day, Matt Damon looked very happy here.
+Second day, Matt Damon decided to consider Venus as base.
